@@ -1,7 +1,7 @@
 {
     "name": "aponahmed/laravel-miniql",
     "description": "A Laravel GraphQL-lite internal query engine — single endpoint, schema-driven, N+1-safe, mutation-ready.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "license": "MIT",
     "keywords": [
