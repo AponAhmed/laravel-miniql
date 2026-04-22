@@ -626,4 +626,4 @@ Possible future upgrades:
 
 ## License
 
-MIT © Your Name
+MIT © Muhiminul Haque
